@@ -11,7 +11,7 @@ python шпора.ipynb - шпаргалка по питону
 
 формулы в LaTeX:
 
-$$ \overline{E}^{2}_1=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_{1}+\beta^{\frac{2}{3}}_2 $$
+$$ \overline{E}^2_1=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_1+\beta^{\frac{2}{3}}_2 $$
 
 $$ \mathrm{C}_{m}^{n}=\frac{n!}{m!(n-m)!} $$
 
