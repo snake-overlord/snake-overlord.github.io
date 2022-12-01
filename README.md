@@ -11,6 +11,8 @@ python шпора.ipynb - шпаргалка по питону
 
 9.py - задание 9 демо егэ 2023
 
+v.py - викторина
+
 схема подготовки к егэ:
 https://lucid.app/lucidspark/3334163c-8f0f-4340-8b31-a08911cb6baf/edit?viewport_loc=-1558%2C-214%2C4514%2C2050%2C0_0&invitationId=inv_bfb995ed-9e96-4a45-87fe-4fec7cc0b92c
 
