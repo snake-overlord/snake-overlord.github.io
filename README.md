@@ -25,8 +25,8 @@ $$ \text{cos}\alpha - \text{cos}\beta = -2\text{sin}\frac{\alpha+\beta}{2}\cdot 
 
 ``` mermaid
 flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|аттестация| B(11 класс)
+B --> C{ЕГЭ}
+C -->|много баллов| D[поступлю на бюджет]
+C -->|мало баллов| E[поступлю на коммерцию]
 ```
