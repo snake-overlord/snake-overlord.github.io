@@ -24,10 +24,10 @@ $$ \mathrm{C}_{m}^{n}=\frac{n!}{m!(n-m)!} $$
 
 $$ \text{cos}\alpha - \text{cos}\beta = -2\text{sin}\frac{\alpha+\beta}{2}\cdot \text{sin}\frac{\alpha-\beta}{2} $$
 
+``` mermaid
 flowchart LR
-"
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
-"
+```
