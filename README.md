@@ -23,3 +23,10 @@ $$ \overline{E}^2_1=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_1+
 $$ \mathrm{C}_{m}^{n}=\frac{n!}{m!(n-m)!} $$
 
 $$ \text{cos}\alpha - \text{cos}\beta = -2\text{sin}\frac{\alpha+\beta}{2}\cdot \text{sin}\frac{\alpha-\beta}{2} $$
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
