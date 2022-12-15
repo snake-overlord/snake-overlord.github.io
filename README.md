@@ -1,4 +1,4 @@
-![fd717d65b03bdf7416f23105917f4c02](https://user-images.githubusercontent.com/114642606/207787629-6a69bc79-af45-4b5e-8811-60b90404035c.png)
+![fd717d65b03bdf7416f23105917f4c02](https://user-images.githubusercontent.com/114642606/207787837-2268d478-a4af-40e4-a322-65b9c5c1e0a9.png)
 
 # snake-overlord.github.io
 
